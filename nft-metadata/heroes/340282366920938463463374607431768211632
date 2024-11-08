@@ -1,0 +1,21 @@
+{
+  "id": 340282366920938463463374607431768211632,
+  "image": "https://ipfs.io/ipfs/QmSifE3eEucCJhwNkWqy93hiy5sKdzvnTegbBdTsHxET2N",
+  "token_id": "340282366920938463463374607431768211632",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Soldier",
+  "description": "Soldier Hero",
+  "external_url": "https://immutable.com",
+  "attributes": [
+	{
+		"trait_type":"Rarity",
+		"value":"Common"
+	},
+	{
+		"trait_type":"Role",
+		"value":"Attack"
+	}
+  ]
+}
